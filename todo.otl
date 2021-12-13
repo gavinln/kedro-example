@@ -1,0 +1,11 @@
+[_] Delete project duck_cache 2021-12-12
+[_] Create Titanic learning classification logistic regression scikit example
+	Use a notebook
+	Put functions in a separate Python file util.py
+		Use a Pipeline to run the Python functions
+	Put functions in a two separate Python files
+		ds_util.py  ds is Data Science
+		de_util.py  de is Data Engineering
+	Put functions in node files
+
+
